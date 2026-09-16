@@ -1,6 +1,5 @@
 {
-  "appId": "com.Trans Pro 01 2026.pro",
+  "appId": "com.transpro.app2026",
   "appName": "Trans Pro 01 2026",
-  "webDir": "www",
-  "bundledWebRuntime": false
+  "webDir": "www"
 }
